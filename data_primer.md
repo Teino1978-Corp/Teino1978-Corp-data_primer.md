@@ -1,5 +1,3 @@
-* [ ] Test
-
 ### Data primer: Defense Logistics Agency's 1033 data
 
 **Q**: What are the agencies, terms and acronyms related to the 1033 program?
