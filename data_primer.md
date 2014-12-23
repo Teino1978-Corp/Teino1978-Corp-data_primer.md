@@ -58,6 +58,8 @@ With the most recent release, the term controlled versus non-controlled has come
 
        * The Defense Logistic Agency and Law enforcement agencies are responsible for tracking controlled property as long as it's in the possession of a law enforcement agency.
 
+       Controlled items in the most-recent DLA data are controlled items that are currently in the possession of a  law enforcement agency. For instance, if a controlled item was dispersed in 2002 but returned in 2006 the item would no longer show up in the data.
+
        * Strictly speaking, "controlled property is defined as personal property under Department of State, Department of Commerce, or Department of Defense control," Johnson said.
 
        * Equipment such as rifles and combat vehicles are controlled items. But equipment that you wouldn't think of as tactical are also tracked.
