@@ -13,10 +13,11 @@ In This Guide
 =============
 
 * [FAQ: What can I find in the data](#faq-what-can-i-find-in-the-data)
+* [Data Smells](#data-smells)
 * [Glossary of Terms](#glossary-of-terms)
 * [Known data releases](#known-data-releases)
 * [State Program Coordinators](#state-program-coordinators)
-* [Authors/Sources](#authors-/-sources)
+* [Authors and Sources](#authors-and-sources)
 
 FAQ: What can I find in the data
 ================================
@@ -90,7 +91,7 @@ It's not unusual for departments to take non-functioning equipment to use for pa
 When the Glendora, Calif. Police Department received two Peacekeeper-style armored vehicles in 1997, the department ended up using one in dozens of SWAT operations and the [other for parts](http://www.scpr.org/news/2014/08/15/46015/michael-brown-congressman-wants-to-curb-military-s/).
 
 [Data smells](https://source.opennews.org/en-US/learning/distrust-your-data/)
-===========
+=============================================================================
 
 * **Regarding the Nov. 21, 2104 Defense Logistics Agency data**:
 
@@ -173,7 +174,7 @@ Glossary of Terms
 * **Value**: How much the Pentagon paid for a piece of equipment on its original purchase. However the data doesn't offer insight into when that was. Some items could have been purchased decades ago. This means you will find items that have the same National Stock Number but valued at diffrent amounts. This is driven by the year of purchase.
 
 State Program Coordinators
-============================
+==========================
 
 To participate in the 1033 program each state must sign a Memorandum of Agreement with the [Defense Logistics Agency](http://www.dispositionservices.dla.mil/leso/Pages/1033ProgramFAQs.aspx#q3). The governor of each state must then a coordinator "to ensure the program is used correctly by the participating law enforcement agencies."
 
@@ -235,8 +236,8 @@ As of Dec. 11, 2014 the state coordinators are [according to the Defense Logisti
 * **Wisconsin**: Wisconsin Emergency Management
 * **Wyoming**: 1033 Program State Coordinator
 
-Authors/Sources
-=======
+Authors and Sources
+===================
 
 * [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher)
 * [Aaron Mendelson](http://aaronmendelson.org/)
