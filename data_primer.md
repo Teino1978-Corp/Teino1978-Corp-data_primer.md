@@ -14,9 +14,9 @@ In This Guide
 
 * [FAQ: What can I find in the data](#faq-what-can-i-find-in-the-data)
 * [Glossary of Terms](#glossary-of-terms)
-* [Available data releases](#known-data-releases)
+* [Known data releases](#known-data-releases)
 * [State Program Coordinators](#state-program-coordinators)
-* [Authors](#authors)
+* [Authors/Sources](#authors-/-sources)
 
 FAQ: What can I find in the data
 ================================
