@@ -241,8 +241,8 @@ As of Dec. 11, 2014 the state coordinators are [according to the Defense Logisti
 Authors and Sources
 ===================
 
-* [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher)
 * [Aaron Mendelson](http://aaronmendelson.org/)
 * [Chris Keller](http://www.scpr.org/about/people/staff/chris-keller)
+* [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher)
 * NPR's Understanding Data On Military Surplus Transfers From The Law Enforcement Support Office
 * MuckRock's [We have over half the country's agency-by-agency 1033 data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
