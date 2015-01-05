@@ -24,7 +24,7 @@ FAQ: What can I find in the data
 
 **I'd like to know if the number of items acquired by local law enforcement agencies through the 1033 program have increased over time?**
 
-**A**: The data released by the Defense Logistics Agency on Nov. 21 is current as of Nov. 14, 2014, but is not a historical record. With some caveats, it could be thought of as a snapshot of controlled items still in the possession of law enforcement agencies over the life of the program.
+**A**: The data released by the Defense Logistics Agency on Nov. 21 is current as of Nov. 13, 2014, but is not a historical record. With some caveats, it could be thought of as a snapshot of controlled items still in the possession of law enforcement agencies over the life of the program.
 
 For example, the data doesn't allow us to say whether the amount equipment acquired by an agency has increased over time. We can only say when the equipment that is currently at an agency arrived there.
 
@@ -71,6 +71,10 @@ With the most recent release, the term controlled versus non-controlled has come
                * Demilitarization code "A" is the only code that is non-controlled property, Johnson said.
 
                    * Furniture, tents, generators, and tools are examples of Demil code "A".
+
+            * Cal OES's definition of "controlled" differs slightly from the DLA's in that it only considers some property with DEMIL Code Q as controlled.
+
+                "DLA retains permanent title to property with Demilitarization (DEMIL) Codes of B, C, D, E, F, G and Q (with an Integrity Code of 3), property with these DEMIL codes is also known as controlled property," according to Cal OES's agreement with the DLA.
 
        * You can find the definition of controlled property in the [California certification package](http://www.calema.ca.gov/publicsafetyandvictimservices/pages/about-the-1033-program.aspx) for the 1033 program.
 
