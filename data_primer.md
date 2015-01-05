@@ -242,11 +242,17 @@ As of Dec. 11, 2014 the state coordinators are [according to the Defense Logisti
 * **Wisconsin**: Wisconsin Emergency Management
 * **Wyoming**: 1033 Program State Coordinator
 
-Authors and Sources
-===================
+Authors
+=======
 
 * [Aaron Mendelson](http://aaronmendelson.org/)
 * [Chris Keller](http://www.scpr.org/about/people/staff/chris-keller)
 * [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher)
-* NPR's Understanding Data On Military Surplus Transfers From The Law Enforcement Support Office
+
+Sources
+=======
+
+* NPR's [Understanding Data On Military Surplus Transfers From The Law Enforcement Support Office](http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program)
 * MuckRock's [We have over half the country's agency-by-agency 1033 data](https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/)
+* [Pentagon releases new details of weapons program in SoCal](http://www.scpr.org/news/2014/12/16/48711/pentagon-releases-new-details-of-weapons-program-i/)
+* [Defense Logistics Agency](http://www.dispositionservices.dla.mil/Pages/default.aspx).
