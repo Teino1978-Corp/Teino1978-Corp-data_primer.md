@@ -17,7 +17,8 @@ In This Guide
 * [Glossary of Terms](#glossary-of-terms)
 * [Known data releases](#known-data-releases)
 * [State Program Coordinators](#state-program-coordinators)
-* [Authors and Sources](#authors-and-sources)
+* [Authors and Contributors](#authors-and-contributors)
+* [Sources](#sources)
 
 FAQ: What can I find in the data
 ================================
@@ -242,8 +243,8 @@ As of Dec. 11, 2014 the state coordinators are [according to the Defense Logisti
 * **Wisconsin**: Wisconsin Emergency Management
 * **Wyoming**: 1033 Program State Coordinator
 
-Authors/Contributors
-====================
+Authors and Contributors
+========================
 
 * [Aaron Mendelson](https://twitter.com/a_mendelson)
 * [David Eads](https://twitter.com/eads)
