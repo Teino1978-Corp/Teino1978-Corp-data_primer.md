@@ -242,12 +242,14 @@ As of Dec. 11, 2014 the state coordinators are [according to the Defense Logisti
 * **Wisconsin**: Wisconsin Emergency Management
 * **Wyoming**: 1033 Program State Coordinator
 
-Authors
-=======
+Authors/Contributors
+====================
 
-* [Aaron Mendelson](http://aaronmendelson.org/)
-* [Chris Keller](http://www.scpr.org/about/people/staff/chris-keller)
-* [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher)
+* [Aaron Mendelson](https://twitter.com/a_mendelson)
+* [David Eads](https://twitter.com/eads)
+* [Tyler Fisher](https://twitter.com/tylrfishr)
+* [Chris Keller](https://twitter.com/ChrisLKeller)
+* [Tom Meagher](https://twitter.com/ultracasual)
 
 Sources
 =======
